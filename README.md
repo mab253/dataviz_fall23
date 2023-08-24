@@ -10,9 +10,9 @@ City College, City University of New York
 
 ## course description
 
-This is a graduate-level course on the theory, practice, design, and critique of data visualization. If "technology has built the house in which we all live" ([Ursula Franklin](https://www.cbc.ca/radio/ideas/the-1989-cbc-massey-lectures-the-real-world-of-technology-1.2946845)), data certainly makes up the materials for this house, how it works, and how it looks. How does data do its work, and why is data visualization a crucial, inextricable part of this? What are the limits of data, and some potential pitfalls of data visualization? What are the possibilities that visualization opens up for understanding the world, as it becomes ever-more datafied? How do we determine what are "good" data visualizations, and how do we make them? We'll see how creating strong, evocative, and informative data visualization involves techniques from art, design, math, psychology, computer science, and other fields.
+This is a graduate-level course on the theory, practice, design, and critique of data visualization. If "technology has built the house in which we all live" ([Ursula Franklin](https://www.cbc.ca/radio/ideas/the-1989-cbc-massey-lectures-the-real-world-of-technology-1.2946845)), data certainly makes up the materials for this house, how it works, and how it looks. How does data do its work, and why is data visualization a crucial, inextricable part of this? What are the limits of data, and some potential pitfalls of data visualization? How can data visualization help us make _sense_ of the ever-increasing deluge of data in our world? How do we determine what are "good" data visualizations, and how do we make them? We'll see how creating strong, evocative, and informative data visualization involves techniques from art, design, math, psychology, computer science, and other fields.
 
-Our explorations in this class will be technical as well as conceptual. We will dive into interdisciplinary readings as well as learn the nuts and bolts of designing, coding, and analyzing data visualizations.
+Our explorations in this class will be technical as well as conceptual. We will dive into interdisciplinary readings as we learn the nuts and bolts of designing, coding, and analyzing data visualizations.
 
 ## what will we do in this class?
 
