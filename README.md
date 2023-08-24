@@ -226,7 +226,7 @@ FINAL REPORT DUE: Dec. 15th, 11:59pm
 
 You will be responsible for:
 - weekly: Discord post, due 4:00pm EST before every class session, starting Week 2
-- 1 mini-presentation of visualization example
+- 1 mini-presentation of Discord post visualization (scheduled throughout course)
 - 1 mid-term assignment (solo work)
 - 1 final project, in groups (proposal, presentation, and final report)
 
