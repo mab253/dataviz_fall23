@@ -155,6 +155,7 @@ The final for this class will be to develop a data visualization project in a sm
 **Readings due today:**
 - from _Visual Display of Quantitative Information_, Tufte, Ch. 4-6
 - from _Semiology of Graphics_, Bertin, pages TBD
+- Mattern, article + pages TBD
 
 ---
 
