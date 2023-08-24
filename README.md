@@ -35,7 +35,7 @@ This course will generally meet **in-person** for 2.5 hours on Wednesdays. Each 
 - **Lab + Workshop**
     - Programming and hands-on work; this will sometimes be guided by the professor, and sometimes involve documentation-based tutorials and group work
 
-👾 We will also build an asynchronous offline community (as exists in nearly every endeavor @ this point!). We will have a class Discord server where we will have multiple channels for posting updates, posing questions, commenting on readings and each others' work, sharing resources, etc.
+👾 We will also build an asynchronous offline community (as exists in nearly every endeavor @ this point!). We will have a class [Discord](https://github.com/mab253/dataviz_fall23/blob/main/discord.md) server where we will have multiple channels for posting updates, posing questions, commenting on readings and each others' work, sharing resources, etc.
 
 🎥 There may be a few times throughout the semester when I will film a lecture + lab instead of giving one in-person. When I post a video instead, you will be free to watch it in your own time. These asynchronous lectures will be clearly marked on the schedule. In the case of any change in the schedule, I will announce this change ahead of time via Blackboard/e-mail.
 
