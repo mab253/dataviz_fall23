@@ -160,7 +160,7 @@ The final for this class will be to develop a data visualization project in a sm
 ---
 
 **Week 9: Nov. 1** \
-*Visualizing Uncertainty* \
+*Visualizing Uncertainty, Questioning Automation* \
 🤖 _javascript, python_
 
 **Readings due today:**
