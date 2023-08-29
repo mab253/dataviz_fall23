@@ -11,6 +11,10 @@ The visualization you find can be one that you like, that exemplifies the princi
 
 The goal of this assignment is for you to start seeing data and visualizations in the world around you, and for us to have a breadth of examples to discuss in-class. In the Discord channel, you will essentially be building a library of sources that you and your peers can use to learn from examples for your final projects and future projects. We will also sharpen our critical skills and get used to quickly sharing our work.
 
+### 🗺️ where to find visualizations?
+
+There is a **[list here](https://github.com/mab253/dataviz_fall23/blob/main/sources-list.md)** that I've started (and will add to!) - but you are welcome to find other online sources, take a photo of 1 on a subway ad or from a book, hand-draw your own ...
+
 ## ⚡️ mini-talk
 
 Each class session after Week 2, 2-3 students in each class session will give an informal, 3 minute max. presentation of the visualization they chose. We will set the schedule for this before Week 2, so everyone will know when they will be presenting.
