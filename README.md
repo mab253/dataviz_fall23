@@ -31,7 +31,7 @@ This course will generally meet **in-person** for 2.5 hours on Wednesdays. Each 
 - **Short Lecture + Group Discussion**
     - Based on the readings, due before class each week
 - **Student Presentations**
-    - Mini-talk based on visualization found in the world (see assignment)
+    - Mini-talk based on visualization found in the world ([see assignment](https://github.com/mab253/dataviz_fall23/blob/main/found-visualizations.md))
 - **Lab + Workshop**
     - Programming and hands-on work; this will sometimes be guided by the professor, and sometimes involve documentation-based tutorials and group work
 
@@ -226,8 +226,8 @@ FINAL REPORT DUE: Dec. 15th, 11:59pm
 ## assignments
 
 You will be responsible for:
-- weekly: Discord post, due 4:00pm EST before every class session, starting Week 2
-- 1 mini-presentation of Discord post visualization (scheduled throughout course)
+- weekly: [Discord post](https://github.com/mab253/dataviz_fall23/blob/main/found-visualizations.md), due 4:00pm EST before every class session, starting Week 2
+- 1 mini-presentation of [Discord post](https://github.com/mab253/dataviz_fall23/blob/main/found-visualizations.md) visualization (scheduled throughout course)
 - 1 mid-term assignment (solo work)
 - 1 final group project (proposal, presentation, and final report)
 
