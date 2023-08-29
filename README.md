@@ -297,6 +297,6 @@ You can find CCNY’s Academic Integrity Policy in full [here](https://www.ccny.
 
 ## contact and questions
 
-👾 Our class will have a [Discord](https://github.com/mab253/cpp_spring23/blob/main/discord.md) server for posting questions and communicating with each other.
+👾 Our class will have a [Discord](https://github.com/mab253/dataviz_fall23/blob/main/discord.md) server for posting questions and communicating with each other.
 
 If you would like to ask a question privately, please e-mail me - I am available and I try to respond within 24 hours. You are also invited to schedule some virtual office hour time to talk, [here](https://www.cal.com/mab253). If you need a time that's not on this schedule, please e-mail me.
