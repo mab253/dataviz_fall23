@@ -229,13 +229,13 @@ You will be responsible for:
 - weekly: Discord post, due 4:00pm EST before every class session, starting Week 2
 - 1 mini-presentation of Discord post visualization (scheduled throughout course)
 - 1 mid-term assignment (solo work)
-- 1 final project, in groups (proposal, presentation, and final report)
+- 1 final group project (proposal, presentation, and final report)
 
 More details for each of these assignments will be given throughout the semester.
 
 ## materials and references
 
-All course material will be linked via this page on Github. I will often post extra links, tool documentation, and further references beyond the required materials that might be helpful to you - but optional. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any in-class workshop material (slides, links, etc.) in a folder in this repo called `/workshops`. Information and instructions for any assigments will be in a folder called `/assignments`.
+All course material will be linked via this page on Github. I will often post extra links, tool documentation, and further references beyond the required materials that might be helpful to you, especially as you build your own visualizations - but these extra resources will be optional. There will be no textbook for this course other than what's linked here. I will post the readings at least 2 weeks in advance, but if you look far ahead you might see some "TBDs." I will also post any in-class workshop material (slides, links, etc.) in a folder for each week. 
 
 ## tools we will use a lot
 
@@ -248,7 +248,7 @@ All course material will be linked via this page on Github. I will often post ex
 ## expectations and requirements
 ### how can I do well in this class?
 
-The discussion and lab combination in this class means that **attendance is very important**, both for your own learning and the learning of your fellow students. Collaborative workshops and rich, critical inquiry simply will not happen if we don't have a consistently present, engaged crew of classmates. Attendance in-class, as well as engagement (active listening, asking questions, etc.), will count toward your final grade. Further, most of the technical component of the class involves in-person labs. At the end of each class section with a lab or workshop, you will need to submit your code to show your in-class work.
+The discussion and lab combination in this class means that **attendance is very important**, both for your own learning and the learning of your fellow students. Collaborative workshops and rich critical inquiry simply will not happen if we don't have a consistently present, engaged crew of classmates. Attendance in-class, as well as engagement (active listening, asking questions, etc.), will count toward your final grade. Further, most of the technical component of the class involves in-person labs. At the end of each class section with a lab or workshop, you will need to submit your code to show your in-class work.
 
 That said, things happen. Everyone in this course will be allowed 1 absence, no questions asked. Every absence after this 1 will result in a deduction from your partipication/attendance portion of your final grade. Lateness beyond 20 minutes is considered an absence. **If you know ahead of time that you will need to miss class, please let me know as soon as possible**, and we can arrange a way for you to make up the work.
 
@@ -264,7 +264,7 @@ Grading breakdown:
 
 on late work:
 
-**Late assignments drop 10% per day, starting after the due time.** (If you submit a reading response 1 hour after the due date, for example, it drops 10%. If you wait another 24 hours, it drops 20%.)
+**Late assignments drop 10% per day, starting after the due time.** (If you submit a Discord post 1 hour after the due date, for example, it drops 10%. If you wait another 24 hours, it drops 20%.)
 
 **✉️ To receive credit for late work, you will need to e-mail me once you have completed it.**
 
@@ -300,5 +300,3 @@ You can find CCNY’s Academic Integrity Policy in full [here](https://www.ccny.
 👾 Our class will have a [Discord](https://github.com/mab253/cpp_spring23/blob/main/discord.md) server for posting questions and communicating with each other.
 
 If you would like to ask a question privately, please e-mail me - I am available and I try to respond within 24 hours. You are also invited to schedule some virtual office hour time to talk, [here](https://www.cal.com/mab253). If you need a time that's not on this schedule, please e-mail me.
-
-Add links to credit a few other classes I borrowed from!
