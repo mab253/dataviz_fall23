@@ -2,8 +2,8 @@
 
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
-Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it with your friends, for gaming, or in other communities. In our class, we will use the Discord platform for questions, discussions, sharing resources, etc: 
-[ADD SCREENSHOT]
+Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it with your friends, for gaming, or in other communities. In our class, we will use the Discord platform for weekly assignment posts, questions, discussions, sharing resources, etc: 
+<img width="1418" alt="Screenshot 2023-08-29 at 3 46 09 PM" src="https://github.com/mab253/dataviz_fall23/assets/17707843/51a16ff5-c5bc-44e5-9462-1d0302e4b3b9">
 
 
 ## to start on our Discord server:
@@ -15,7 +15,7 @@ Discord is a good tool to learn in today's coding world: most workplaces will ha
 ## assignments 
 
 Every week you are responsible for:
-- posting in response to the weekly prompt
+- 1 found visualization post, due 4:00pm NYC-time before every class session, starting Week 2 (Sept. 13th)
 - asking @ least 1 question or making 1 comment on someone else's post
 
 ## Discord tips
