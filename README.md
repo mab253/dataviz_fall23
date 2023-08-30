@@ -166,6 +166,7 @@ The final for this class will be to develop a data visualization project in a sm
 **Readings due today:**
 - [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/aesthetic-mapping.html), Wilke, Ch. 16
 - ["What would feminist data visualization look like?"](https://civic.mit.edu/feminist-data-visualization), D'Ignazio
+- [Data Humanism](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi
 - _How Data Happened_, Wiggins, pages TBD
 
 ---
