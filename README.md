@@ -178,6 +178,7 @@ The final for this class will be to develop a data visualization project in a sm
 
 **Readings due today:**
 - from _The Network Turn_, Ahnert, Coleman, Weingart; pages TBD
+- ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
 
 
 ---
