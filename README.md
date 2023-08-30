@@ -57,6 +57,8 @@ The final for this class will be to develop a data visualization project in a sm
 **Week 0: Aug. 30** \
 *Introduction to Data Visualization, Hello World!*
 
+[slides! link for class](https://docs.google.com/presentation/d/19hGb_rFdBJZA1A35ku3PB3ripDlSLBHJlbjZ1cK3mYo/edit?usp=sharing)
+
 **Assignment:** complete class survey; "hello world," post on Discord (invite/link for both will be e-mailed) \
 **DUE:** Friday Sep. 1st, 5:00pm (happy labor day weekend!)
 
