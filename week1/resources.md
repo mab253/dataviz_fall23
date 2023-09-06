@@ -14,3 +14,7 @@
 ### on Minard's map:
 - Badri Adhikari, [map breakdown + questions](https://badriadhikari.github.io/DV/week2/minards/)
 - 😱 Amit Amola, [making Minard in matplotlib](https://amitamola.medium.com/minards-chart-using-matplotlib-in-python-fbe8865cad78)
+
+### on John Snow's map:
+- from _Inferential Thinking_, Adhikari, DeNero, Wagner. [Observation and Visualization: John Snow and the Broad Street Pump](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html)
+- [London Nightmen](https://victorianweb.org/history/work/19.html), the Victorian Web
