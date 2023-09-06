@@ -9,3 +9,4 @@
 
 ### on Minard's map:
 - Badri Adhikari, [map breakdown + questions](https://badriadhikari.github.io/DV/week2/minards/)
+- 😱 Amit Amola, [making Minard in matplotlib](https://amitamola.medium.com/minards-chart-using-matplotlib-in-python-fbe8865cad78)
