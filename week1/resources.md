@@ -6,3 +6,6 @@
 - Codecademy, [Python cheat sheet](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet) + [Python course](https://www.codecademy.com/learn/learn-python) (free), great for practice
 - Codecademy, [Matplotlib cheat sheet](https://www.codecademy.com/learn/data-visualization/modules/dspath-matplotlib/cheatsheet)
 - Datacamp, [Matplotlib basics tutorial](https://www.datacamp.com/tutorial/matplotlib-tutorial-python)
+
+### on Minard's map:
+- Badri Adhikari, [map breakdown + questions](https://badriadhikari.github.io/DV/week2/minards/)
