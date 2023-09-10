@@ -6,6 +6,7 @@
 - [Guardian](https://www.theguardian.com/data), data blog
 - [Flowing Data](https://flowingdata.com/), Nathan Yau
 - [Nightingale](https://nightingaledvs.com/), Journal of the Data Visualization Society
+- [Bellingcat](https://www.bellingcat.com/category/resources/) open source investigations (war, corruption, etc.)
 - [Eager Eyes](https://eagereyes.org/), Robert Kosara
 - [Information is Beautiful](https://informationisbeautiful.net/), David McCandless
 - Reddit, [r/visualization](https://www.reddit.com/r/visualization), [r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/)
