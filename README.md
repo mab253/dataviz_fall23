@@ -94,7 +94,7 @@ The final for this class will be to develop a data visualization project in a sm
 **Readings due today:**
 - [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/aesthetic-mapping.html), Wilke, Ch. 2, 4, and 19 (they are short)
 - [_Envisioning Information_](https://github.com/mab253/dataviz_fall23/blob/main/week3/envisioning-info-tufte-color-info.pdf), Tufte, Ch. 5 "Color and Information"
-- _Visual Analysis and Design_, Munzner, [Color](https://www.youtube.com/watch?v=QNDd_hvdORw) watch video, 18min.
+- _Visual Analysis and Design_, Munzner, [Color](https://www.youtube.com/watch?v=QNDd_hvdORw) 🎥 watch video, 18min.
 
 ---
 
