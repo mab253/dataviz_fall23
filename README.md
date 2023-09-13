@@ -92,9 +92,9 @@ The final for this class will be to develop a data visualization project in a sm
 🤖 _python libraries_
 
 **Readings due today:**
-- _Visual Thinking for Design_, Ware. Ch. 1
+- [_Visual Thinking for Design_](https://github.com/mab253/dataviz_fall23/blob/main/week3/visual-thinking-ware-ch2.pdf), Ware. Ch. 2
 - [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/aesthetic-mapping.html), Wilke, Ch. 2, 4, and 19 (they are short)
-- _Envisioning Information_, Tufte, Ch. 4 "Small Multiples" and Ch. 5 "Color and Information"
+- [_Envisioning Information_](https://github.com/mab253/dataviz_fall23/blob/main/week3/envisioning-info-tufte-color-info.pdf), Tufte, Ch. 5 "Color and Information"
 
 ---
 
