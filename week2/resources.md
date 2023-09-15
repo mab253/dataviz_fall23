@@ -9,6 +9,7 @@
 - Codecademy, [_Getting Started with Pandas_](https://www.codecademy.com/learn/getting-started-with-python-for-data-science), good practice or intro
 - Chawla from _Towards Data Science_ (Medium), "[20% of Pandas Functions that Data Scientists Use 80% of the Time](https://towardsdatascience.com/20-of-pandas-functions-that-data-scientists-use-80-of-the-time-a4ff1b694707)" - cheatsheet
 - ["Tidy Data"](https://vita.had.co.nz/papers/tidy-data.pdf), H. Wickham, _Journal of Statistical Software_ (PDF)
+- [Art illustrating Tidy Data](https://allisonhorst.com/other-r-fun), Allison Horst
 
 ### 🐧 palmer penguins:
 
