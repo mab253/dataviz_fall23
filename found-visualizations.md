@@ -26,7 +26,6 @@ Each class session after Week 2, 2-3 students in each class session will give an
 Week 3 Sept. 20: 
 - Abhina P.B.
 - Alexander S. M.
-- Reihaneh S.
 
 Week 4 Sept. 27:
 - Muhammad Sarim A.
