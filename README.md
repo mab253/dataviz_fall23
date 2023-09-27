@@ -114,11 +114,8 @@ The final for this class will be to develop a data visualization project in a sm
 🤖 _introducing javascript_
 
 **Readings due today:**
-- [_Data in Wonderland_](https://ssp3nc3r.github.io/data_in_wonderland/#interactive), Spencer, Ch. 3 "Interactive"
-- [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/telling-a-story.html), Wilke, Ch. 29
-- _D3 for the Impatient: Interactive Graphics for Programmers and Scientists_, Janert, pages TBD
-- [_Visual Thinking for Design_](https://github.com/mab253/dataviz_fall23/blob/main/week3/visual-thinking-ware-ch2.pdf), Ware. Ch. 2 TBD
-- _Thick Mapping in the Digital Humanities_, pages TBD
+- [_Data in Wonderland_](https://ssp3nc3r.github.io/data_in_wonderland/#interactive), Spencer, Ch. 3 "Interactive" - all of Ch. 3!
+- _D3 for the Impatient: Interactive Graphics for Programmers and Scientists_, Janert, p. 11-30 in Ch. 2
 
 
 ---
