@@ -150,12 +150,14 @@ The final for this class will be to develop a data visualization project in a sm
 *Dashboards + Live Data* \
 🤖 _javascript, python_
 
-📊 **_Mid-term Mini-Project Due_**, before class
-
 **Readings due today:**
 - from _Visual Display of Quantitative Information_, Tufte, Ch. 4-6
 - from _Semiology of Graphics_, Bertin, pages TBD
 - Mattern, article + pages TBD
+
+---
+
+📊 **_Mid-term Mini-Project Due_**, Oct. 27 by 11:59pm
 
 ---
 
