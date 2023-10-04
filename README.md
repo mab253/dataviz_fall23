@@ -223,7 +223,7 @@ FINAL REPORT DUE: Dec. 15th, 11:59pm
 
 
 ## key dates
-- mid-term mini-project: due Oct. 25, 12:00pm
+- mid-term mini-project: due Oct. 27, 11:59pm
 - final project presentation: in-class, Dec. 6th
 - final project repot: due Dec. 15th, 11:59pm
 
