@@ -2,6 +2,8 @@
 - [Glitch.com starter project](https://glitch.com/edit/#!/dataviz-interactivity-d3intro?path=index.html%3A15%3A63) - click here!
   - click "remix" button, upper right
   - click "glitch" button after new project loads, in upper left - to create an account
+  - <img width="800" alt="Screenshot 2023-10-04 at 3 18 22 PM" src="https://github.com/mab253/dataviz_fall23/assets/17707843/4fa131da-16bc-4c35-baa3-372ff92839ed">
+
 
 ### 🤖 resources for d3:
 - [d3 Graph Gallery](https://d3-graph-gallery.com/), great resource w/code examples
