@@ -15,24 +15,26 @@ You may start with the following steps:
 
 - ⚽️ **major league soccer, matches dataset**
   - every match from 1996 - 2022, various stats
-  - [download dataset]
+  - [download dataset](https://github.com/mab253/dataviz_fall23/blob/main/midterm-datasets/matches.csv)
   - sources: ESPN data, via [jvmohr](https://github.com/jvmohr/dataScience/tree/master) + [kaggle](https://www.kaggle.com/datasets/josephvm/major-league-soccer-dataset/data)
  
 - 💫 **open asteroid dataset**
   - 33k+ "near-earth objects" and their recorded data
-  - [download dataset]
+  - [download dataset](https://github.com/mab253/dataviz_fall23/blob/main/midterm-datasets/open-asteroid.csv)
   - sources: [NASA JPL](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) + [kaggle](https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset)
+  - note: for a "data dictionary" of what each column means, check out [this page](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) in the "Output Selection Controls" section
 
 - 🌎 **climate, global land temperatures dataset**
-  - 4 tables: temperatures by city, country, state, and global overview, 1750-today
-  - [download dataset]
+  - 3 tables: temperatures by major city, country, and global overview, 1750-today
+  - [download dataset](https://github.com/mab253/dataviz_fall23/tree/main/midterm-datasets/climate-datasets)
   - sources: [Berkeley Earth](https://berkeleyearth.org/data/) + [kaggle](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
  
 - 🎬 **nyc film permits dataset**
   - information about all film permits given by the city in 2023
-  - [download dataset]
+  - [download dataset](https://github.com/mab253/dataviz_fall23/blob/main/midterm-datasets/Film_Permits.csv)
   - sources: [NYC Open Data](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p)
- 
+
+**💥 remember, you do not have to visualize every attribute! what columns will you focus on?** \
 have fun!
 
 ## 🔎 evaluation criteria
