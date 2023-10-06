@@ -10,6 +10,7 @@
 - [Observable d3 Gallery](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=nav&utm_campaign=try-observable), more advanced examples with code
 - [Mike Bostock](https://bost.ocks.org/mike/), one of the creators of D3, tutorials/examples
 - [d3 official documentation](https://d3js.org/getting-started)
+- [codecademy Javascript](https://www.codecademy.com/learn/introduction-to-javascript), beginner friendly free course
 
 ### 📊 on interactivity and the web:
 - [Web Zine](https://coolguy.website/web-zine/01/), on HTML, Zach Mandeville
