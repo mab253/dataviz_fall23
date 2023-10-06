@@ -35,7 +35,7 @@ You may start with the following steps:
  
 have fun!
 
-## evaluation criteria
+## 🔎 evaluation criteria
 
 Your work will be evaluated based on your analysis process, final visualizations, and your short report. In general I am looking for:
   - Clear research questions related to the chosen data set
@@ -46,4 +46,8 @@ Your work will be evaluated based on your analysis process, final visualizations
   - 2 final visualizations are polished, they can "stand alone" and tell a story
   - Expressive and effective visualizations, good design choices based on what we've learned (color, shape, other channels, etc.)
   - Clear and relevant captions, titles, axes, and any other necessary labels
+
+## ✉️ submit your work 
+  - The report text can be inside the Jupyter notebook, at the end after your final visualization renderings.
+  - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrCU8LYwR5EtMVPf) to submit your work **by Oct. 27, 11:59pm.**
 
