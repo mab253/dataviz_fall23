@@ -127,7 +127,7 @@ The final for this class will be to develop a data visualization project in a sm
 **Readings due today:**
 - [Anatomy of a Web Map](https://maptime.io/anatomy-of-a-web-map/#0), McConchie and Schechter (interactive presentation)
 - [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/geospatial-data.html), Wilke, Ch. 15
-- _How to Lie With Maps_, Monmonier, pages TBD
+- _How to Lie With Maps_, Monmonier, Intro (p. 1-4) & Ch. 3 (p. 25-42)
 
 
 
