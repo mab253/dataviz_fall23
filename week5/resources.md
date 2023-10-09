@@ -1,4 +1,5 @@
 ### 🖥️ lab link:
+- [HTML/CSS/JS demo from class](https://glitch.com/edit/#!/brook-lyrical-pedestrian), code up to the end of class 10.04.2023
 - [Glitch.com starter project](https://glitch.com/edit/#!/dataviz-interactivity-d3intro?path=index.html%3A15%3A63) - click here!
   - click "remix" button, upper right
   - click "glitch" button after new project loads, in upper left - to create an account
