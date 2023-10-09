@@ -1,5 +1,6 @@
 ### 🖥️ lab links: 
 - [lab-week4-in-class.ipynb](https://colab.research.google.com/github/mab253/dataviz_fall23/blob/main/week4/week4_lab_in_class.ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
+- [lab-week4-mab-share.ipynb](https://colab.research.google.com/github/mab253/dataviz_fall23/blob/main/week4/week4_lab_mab_share.ipynb) - 2 examples of du Bois challenge with 1800's data -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
 
 ### 🤖 resources for storytelling:
 - [Wilke on storytelling](https://clauswilke.com/dataviz/telling-a-story.html), Ch. 29
