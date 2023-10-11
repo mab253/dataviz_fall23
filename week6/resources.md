@@ -8,4 +8,8 @@
 - [Leaflet documentation + tutorials](https://leafletjs.com/), simple + advanced examples with code
 - [codecademy Javascript](https://www.codecademy.com/learn/introduction-to-javascript), beginner friendly free course
 
+### 🗺️ resources for maps generally:
+- [Maptime resource list](https://maptime.io/lessons-resources/)
+
+
 
