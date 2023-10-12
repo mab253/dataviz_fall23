@@ -12,6 +12,7 @@
 ### 🗺️ resources for maps generally:
 - [Maptime resource list](https://maptime.io/lessons-resources/)
 - [Strange Maps](https://bigthink.com/strange-maps/), Frank Jacobs, blog w/great examples
+- [geojson.io](https://geojson.io), tool we used in class, great for creating datasets via hand-drawing on maps
 
 
 
