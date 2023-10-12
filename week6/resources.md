@@ -1,4 +1,5 @@
 ### 🖥️ lab link:
+- [MAP demo from class](https://glitch.com/edit/#!/tidy-grateful-gemini?path=index.html), code up to 10.11.2023
 - [Glitch.com 🌎 MAP starter project](https://glitch.com/edit/#!/maps-leaflet-playground) - click here!
   - log-in (you should have an account, or start a free one if you need) 
   - click "remix" button, upper right to get your own editable copy of the project
