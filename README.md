@@ -156,7 +156,7 @@ The final for this class will be to develop a data visualization project in a sm
 
 ---
 
-📊 **_Mid-term Mini-Project Due_**, Oct. 27 by 11:59pm
+📊 **_Mid-term Mini-Project Due_**, Oct. 29 by 11:59pm
 
 ---
 
@@ -222,7 +222,7 @@ FINAL REPORT DUE: Dec. 15th, 11:59pm
 
 
 ## key dates
-- mid-term mini-project: due Oct. 27, 11:59pm
+- mid-term mini-project: due Oct. 29, 11:59pm
 - final project presentation: in-class, Dec. 6th
 - final project repot: due Dec. 15th, 11:59pm
 
