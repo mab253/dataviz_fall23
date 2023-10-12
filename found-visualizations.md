@@ -45,6 +45,7 @@ Week 6 Oct. 11:
 Week 7 Oct. 18:
 - Artjola M.
 - Zhongming W.
+- Fabrice N.
 
 Week 9 Nov. 1:
 - Tyler A.
