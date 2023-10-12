@@ -10,6 +10,7 @@
 
 ### 🗺️ resources for maps generally:
 - [Maptime resource list](https://maptime.io/lessons-resources/)
+- [Strange Maps](https://bigthink.com/strange-maps/), Frank Jacobs, blog w/great examples
 
 
 
