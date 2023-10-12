@@ -139,8 +139,8 @@ The final for this class will be to develop a data visualization project in a sm
 
 **Readings due today:**
 - ["Unicorns, Janitors, Ninjas, Wizards, and Rock Stars"](https://direct.mit.edu/books/oa-monograph/4660/chapter/213289/Unicorns-Janitors-Ninjas-Wizards-and-Rock-Stars) from [_Data Feminism_](https://direct.mit.edu/books/oa-monograph/4660/Data-Feminism), D'Ignazio and Klein
-- "On Exactitude in Science," Borges
-- Mattern, article + pages TBD
+- ["On Exactitude in Science"](https://kwarc.info/teaching/TDM/Borges.pdf), Borges (*yes, 1 paragraph short story!)
+- ["The politics of making maps"](https://opencanada.org/the-politics-of-maps/), Caquard, interviewed by Salinas
 
 
 
@@ -151,9 +151,8 @@ The final for this class will be to develop a data visualization project in a sm
 🤖 _javascript, python_
 
 **Readings due today:**
-- from _Visual Display of Quantitative Information_, Tufte, Ch. 4-6
 - from _Semiology of Graphics_, Bertin, pages TBD
-- Mattern, article + pages TBD
+- ["Mission Control: A History of The Urban Dashboard"](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/), Mattern in _Places Journal_
 
 ---
 
