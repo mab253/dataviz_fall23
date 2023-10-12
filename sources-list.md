@@ -8,6 +8,7 @@
 - [Nightingale](https://nightingaledvs.com/), Journal of the Data Visualization Society
 - [Bellingcat](https://www.bellingcat.com/category/resources/) open source investigations (war, corruption, etc.)
 - [Eager Eyes](https://eagereyes.org/), Robert Kosara
+- [Data Sketches](https://www.datasketch.es/), Nadieh Bremer + Shirley Wu
 - [Information is Beautiful](https://informationisbeautiful.net/), David McCandless
 - Reddit, [r/visualization](https://www.reddit.com/r/visualization), [r/dataisbeautiful/](https://www.reddit.com/r/dataisbeautiful/)
 - Are.na channels, sharing platform; [example channel](https://www.are.na/bianca-p/data-visualisation-b3vxyx2oz-q)
