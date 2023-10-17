@@ -51,5 +51,5 @@ Your work will be evaluated based on your analysis process, final visualizations
 
 ## ✉️ submit your work 
   - The report text can be inside the Jupyter notebook, at the end after your final visualization renderings.
-  - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrCU8LYwR5EtMVPf) to submit your work **by Oct. 27, 11:59pm.**
+  - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrCU8LYwR5EtMVPf) to submit your work **by Oct. 29, 11:59pm.**
 
