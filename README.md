@@ -151,7 +151,7 @@ The final for this class will be to develop a data visualization project in a sm
 🤖 _javascript, python_
 
 **Readings due today:**
-- read through [choropleth code example](https://wifi-squirrels-map2.glitch.me/)
+- read through [choropleth code example](https://glitch.com/edit/#!/wifi-squirrels-map2)
 - ["Mission Control: A History of The Urban Dashboard"](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/), Mattern in _Places Journal_
 
 ---
