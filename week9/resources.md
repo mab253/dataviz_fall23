@@ -2,6 +2,7 @@
 - [MAP starter project](https://glitch.com/edit/#!/satin-workable-surf?path=README.md%3A5%3A7) - start here + remix!
 
 ### 🤖 other resources for uncertainty, other topics this week:
+- [Animating Uncertainty](https://vallandingham.me/animating_uncertainty.html), jiggling particle systems, Jim Vallandingham (Netflix)
 - [Hurricane Interactive Viz](https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html), from NYT (and from lab)
 - [Web GL Wind](https://mapbox.github.io/webgl-wind/demo/), beautiful simulation w/o a lot of context, by folks @ Mapbox
 - [Project Ukko](https://project-ukko.net/map.html#), wind map with much more context, by [Moritz Stefaner](https://truth-and-beauty.net/)
