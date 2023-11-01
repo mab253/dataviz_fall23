@@ -175,8 +175,6 @@ The final for this class will be to develop a data visualization project in a sm
 *Visualizing Texts, Networks and Trees* \
 🤖 _javascript, python_
 
-📊 **Final Project Proposal + Groups Due**, before class
-
 **Readings due today:**
 - from _The Network Turn_, Ahnert, Coleman, Weingart; pages TBD
 - ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
@@ -187,6 +185,8 @@ The final for this class will be to develop a data visualization project in a sm
 **Week 11: Nov. 15** \
 *Data Collection and Missing Data* \
 🤖 _python libraries_
+
+📊 **Final Project Proposal + Groups Due**, before class
 
 **Readings due today:**
 - [missingno documentation](https://github.com/ResidentMario/missingno)
