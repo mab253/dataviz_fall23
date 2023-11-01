@@ -176,9 +176,8 @@ The final for this class will be to develop a data visualization project in a sm
 🤖 _javascript, python_
 
 **Readings due today:**
-- from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
 - ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
-
+- from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
 
 ---
 
