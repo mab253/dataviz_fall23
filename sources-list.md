@@ -25,6 +25,8 @@
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [data.gov](https://data.gov), [census.gov](https://census.gov)
 - [Kaggle](https://www.kaggle.com/datasets)
+- [Google dataset search](https://datasetsearch.research.google.com/)
+- [E-Bird](https://science.ebird.org/en), biology/citizen science
 
 This list is dynamic - I will keep adding to it (especially as you add creative resources to the Discord!)
 
