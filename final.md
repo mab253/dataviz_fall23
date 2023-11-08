@@ -54,7 +54,7 @@ if you make multiple simple charts:
 - for example: "[US Opioid Data](https://dash.gallery/dash-opioid-epidemic/)", Plotly example
 - for example: ["Tracking the Global Outbreak](https://www.nytimes.com/interactive/2021/world/covid-cases.html), NYT Covid data + map
 
-if you make 1 more complex, interactive custom visualization:
+if you make 1 complex, interactive custom visualization:
 - a map, for example, could have area + points + pop-ups, multiple layers, or a scrolling story map - you could use your Leaflet skills or try [Mapbox](https://docs.mapbox.com/mapbox-gl-js/example/)
 - for example: [Mapping Stop and Frisk, NYC](https://docs.mapbox.com/mapbox-gl-js/example/), NYT
 - for example: [AAPI Census Data](https://ucla-center-for-neighborhood-knowledge.github.io/hub-census-map/), Movement Hub
