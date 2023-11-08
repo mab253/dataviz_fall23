@@ -52,6 +52,7 @@ if you make multiple simple charts:
 - for example: "[The New Geography of the Russian Elite](https://www.nytimes.com/interactive/2022/06/17/world/europe/russia-private-jets.html)", NYT
 - for example: "[Uber Data Dash](https://dash.gallery/dash-uber-rides-demo/)", Plotly example
 - for example: "[US Opioid Data](https://dash.gallery/dash-opioid-epidemic/)", Plotly example
+- for example: "[Lionel Messi is Impossible](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)", 538 
 - for example: ["Tracking the Global Outbreak](https://www.nytimes.com/interactive/2021/world/covid-cases.html), NYT Covid data + map
 
 if you make 1 complex, interactive custom visualization:
