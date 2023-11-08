@@ -50,8 +50,8 @@ if you make multiple simple charts:
 - 💥 YOU MAY USE Plotly to export HTML/CSS/JS from Python, but these charts need to be interactive and combined in a single portal hosted online
 - they should be at least 3 different kinds of charts - you are not limited to bar, line, scatter! This chart type list could get you thinking: [d3](https://d3-graph-gallery.com/), [Python](https://python-graph-gallery.com/)
 - for example: "[The New Geography of the Russian Elite](https://www.nytimes.com/interactive/2022/06/17/world/europe/russia-private-jets.html)", NYT
-- for example: "[Uber Data Dash](https://dash.gallery/dash-uber-rides-demo/)", Plotly example
-- for example: "[US Opioid Data](https://dash.gallery/dash-opioid-epidemic/)", Plotly example
+- for example: "[Uber Data Dash](https://dash.gallery/dash-uber-rides-demo/)", Plotly example 
+- for example: "[US Opioid Data](https://dash.gallery/dash-opioid-epidemic/)", Plotly example - more good [dashboard examples](https://dash.gallery/Portal/) here
 - for example: "[Lionel Messi is Impossible](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)", 538 
 - for example: ["Tracking the Global Outbreak](https://www.nytimes.com/interactive/2021/world/covid-cases.html), NYT Covid data + map
 
@@ -62,6 +62,10 @@ if you make 1 complex, interactive custom visualization:
 - for example: [Shipmap!](https://www.shipmap.org/)
 - for example: [A Map of Citi Bike](https://projects.newyorker.com/story/citi-bike.html), New Yorker
 - for example: [2020 Election Results Map](https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html), NYT
+
+maybe you make a network graph:
+- for example: [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com)
+- for example: [Characters in Love, Actually](https://dgrtwo.shinyapps.io/love-actually-network/)
 
 maybe you make a complex hand-drawn based visualization, (I am open to this! - with online documentation)
 - for example: "[Bats and the Origins of Outbreaks](https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)"
