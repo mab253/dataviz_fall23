@@ -35,7 +35,7 @@ SOME SUGGESTIONS ON PROCESS:
 - ask for help! Please use the Discord to: post code that confuses you, request help debugging, ask for feedback on any drafts, etc. - from me or your classmates
 - do create rough drafts - I recommend sketching by hand if that helps you, or use simple tools before your complex visualizations. If making a map, for example, you could try a draft in [Felt](https://felt.com/) before you work in code.
 - you may delegate and divide the labor among your team members, but your final project needs to come together cohesively as 1 complete whole
-- you may (and are encouraged to!) find outside sources to help with code, new libraries, online examples, etc. When you use these, remember to cite your sources!
+- you may (and are encouraged to!) find outside sources to help with code, new libraries, online examples, etc. When you use these, **💥 remember to [cite your sources](https://github.com/mab253/dataviz_fall23/blob/main/citations.md)!**
 - document your process as you go; it will be helpful for your reflection and your final report
 
 SOME THOUGHTS ON SCOPE & EXAMPLES:
