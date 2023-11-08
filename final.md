@@ -86,6 +86,9 @@ Grading:
   - Final Visualization(s) (50%)
 
 ## ✉️ submit your work
-  - The report text can be inside the Jupyter notebook, at the end after your final visualization renderings.
-  - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrQLr3zxT02wTSZ2) to submit your work **by Dec. 15, 11:59pm.**
+  - Earlier deadlines:
+      - first post: Nov. 8th (Discord)
+      - team proposal: Nov. 15th (Discord DM or e-mail to professor)
+      - presentation: in-class, Dec. 6th (last day!)
+  - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrQLr3zxT02wTSZ2) to submit your final work **by Dec. 15, 11:59pm.**
 
