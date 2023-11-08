@@ -8,7 +8,7 @@ For this assignment, you will work with a team to research, analyze, develop, re
     - write 1 post suggesting 2 possible data domains you are interested in exploring, along with links to 2 sample possible datasets. I recommend checking out the sources listed [here](https://github.com/mab253/dataviz_fall23/blob/main/sources-list.md) if you need inspiration, but you may find data elsewhere as well!
     - include your strengths for your potential team, and what you are hoping to get help with on the final project (from other students or the professor), for example: Python/analysis, Javascript, visual design, report writing, etc.
 - Those Discord posts are like "pitches" to the rest of the class - does someone have a similar data interest? Does another student have complementary skills that you might want to work with? **Use your week Nov. 8th-15th** to form teams as a class, preferably 2-4 people.
-- Your team list, a short description of the domain, and a link to possible datasets are due by **Nov. 15th before class**, via e-mail or Discord DM. Only 1 submission necesary per team!
+- Your team list, a short description of the domain, and a link to possible datasets are due by **Nov. 15th before class**, via a Discord post in `#general` channel. Only 1 submission necesary per team!
 - If you would like me to match you to a team, please send me an e-mail before Nov. 15th.
 
 ### 📑 #2: collaborative data work!
@@ -92,7 +92,7 @@ Grading:
 ## ✉️ submit your work
   - Earlier deadlines:
       - first post: Nov. 8th (Discord)
-      - team proposal: Nov. 15th (Discord DM or e-mail to professor)
+      - team proposal: Nov. 15th (Discord)
       - presentation: in-class, Dec. 6th (last day!)
   - Please use [this form](https://airtable.com/appJ1zoJbOnRhJYPQ/shrQLr3zxT02wTSZ2) to submit your final work **by Dec. 15, 11:59pm.**
 
