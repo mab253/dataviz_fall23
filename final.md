@@ -65,6 +65,7 @@ if you make 1 more complex, interactive custom visualization:
 maybe you make a complex hand-drawn based visualization, (I am open to this! - with online documentation)
 - for example: "[Bats and the Origins of Outbreaks](https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)"
 - for example: "[Dear Data](http://www.dear-data.com/theproject)"
+
 maybe you make a custom interactive graphic, entirely unique in form! I am open to this too. Describe your idea when you turn in your initial team proposal and we'll talk!
 
 ## 🔎 evaluation criteria
