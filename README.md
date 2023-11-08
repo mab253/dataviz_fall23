@@ -188,8 +188,8 @@ The final for this class will be to develop a data visualization project in a sm
 📊 **Final Project Proposal + Groups Due**, before class
 
 **Readings due today:**
-- [missingno documentation](https://github.com/ResidentMario/missingno)
-- [beautifulsoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- read intro + skim through: [beautifulsoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- read intro (README) + skim through: [missingno documentation](https://github.com/ResidentMario/missingno)
 - ["The Great Impossibility"](https://www.dropbox.com/sh/rn8k7ded6izu2a9/AAARsVWFaKf5iRhGE2AfQvFLa?dl=0&preview=zine-GreatImpossibility.pdf) and ["The Point of Collection"](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.y0xtfxi2p) Mimi Onuoha
 
 ---
