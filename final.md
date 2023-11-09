@@ -85,8 +85,8 @@ Your work will be evaluated based on your analysis process, final visualizations
 
 Grading:
   - Proposal complete & on-time (5%)
-  - Presentation (10%)
-  - Report + Documentation (25%)
+  - Presentation (15%)
+  - Report + Documentation (30%)
   - Final Visualization(s) (50%)
 
 ## ✉️ submit your work
