@@ -27,6 +27,7 @@
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Google dataset search](https://datasetsearch.research.google.com/)
 - [E-Bird](https://science.ebird.org/en), biology/citizen science
+- [Distributed Denial of Secrets](https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets), leaks, politics, corruption
 - [Music Brainz](https://musicbrainz.org/), music metadata
 
 This list is dynamic - I will keep adding to it (especially as you add creative resources to the Discord!)
