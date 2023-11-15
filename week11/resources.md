@@ -5,4 +5,5 @@
 ### 🤖 other resources for missing data + scraping, other topics this week:
 - [Distributed Denial of Secrets](https://ddosecrets.com/wiki/Distributed_Denial_of_Secrets)
 - Mimi Onuoha zine, [The Great Impossibility](https://mimionuoha.com/the-great-impossibility), exhibit [The Library of Missing Datasets](https://mimionuoha.com/the-library-of-missing-datasets)
+- Ben Grosser, [redacted Andreessen techno optimist manifesto](https://bengrosser.com/files/Techno-Optimist-Manifesto-Andreessen-redacted-by-Grosser.pdf)
   
