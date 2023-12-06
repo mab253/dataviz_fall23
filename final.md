@@ -23,8 +23,8 @@ For this assignment, you will work with a team to research, analyze, develop, re
 Every team will be responsible for:
 - Presentation, 7-10 minutes, showing work-in-progress, including telling the story of your domain and any research questions, and giving the class a look into your process and analysis. Include a slide deck of visuals, on **Dec. 6th** in-class.
 - Online-accessible, interactive version of your project, hosted at a [Glitch.com](https://glitch.com) URL, **due Dec. 15th** by 11:59pm
-- Methodology section included as Markdown file (`README.md`) in Glitch project (more info coming)
-- Final project written report, 1000-1200 words, **due Dec. 15th** by 11:59pm (more info coming)
+- Methodology section included as Markdown file (`README.md`) in Glitch project [(see below)](#📄-writings:-methodology-and-report), **due Dec. 15th** by 11:59pm
+- Final project written report, 1000-1200 words, [(see below)](#📄-writings:-methodology-and-report), **due Dec. 15th** by 11:59pm
 - Any supporting code (Jupyter notebook for Pandas, for example), with comments, **due Dec. 15th** by 11:59pm
 
 Every person will be responsible for:
@@ -88,6 +88,23 @@ Grading:
   - Presentation (15%)
   - Report + Documentation (30%)
   - Final Visualization(s) (50%)
+
+## 📄 writings: methodology and report
+
+For the methodology section:
+- Edit the default `README.md` (md=Markdown) file in the final Glitch project to create a "Methodology" portion of your project
+- Markdown is a language like HTML - you can pick up some pointers [here!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Write, in paragraph form, an overview of your domain and dataset; some background on what you know about the origin of the data; any data transformation/processing that your group did on the dataset; and an introduction to your audience on how to "read" and "use" the visualization.
+- You can check out the [Ukko wind map](https://project-ukko.net/more-info.html) or the [Unlock NYC](https://weunlock.nyc/data/soi-map/) "About this Map" sections as examples. Think of this as front-end, public-facing information - what do you want your users to know? What do you need them to know about your process? 
+
+For the report: (1000-1200 words)
+- Include the following sections:
+    - Abstract: 1 paragraph summary. What are your key questions, key outputs and design choices, and key findings from creating your visualization?
+    - Data domain background (feel free to repeat language from your Methodology)
+    - Project process - tell the "story" of your group's work, explaining key design decisions. Why does your visualization look and behave the way it does? Who is your audience and what have you made for them? 
+    - Limitations + extensions - how would your group improve or extend the project, given more time and resources? What questions remain?
+    - 1 static image embedded in the report (an export or a screenshot of your final viz)
+    - Save this as a PDF and include it as an attachment in your final upload.
 
 ## ✉️ submit your work
   - Earlier deadlines:
