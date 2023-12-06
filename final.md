@@ -95,13 +95,13 @@ For the methodology section:
 - Edit the default `README.md` (md=Markdown) file in the final Glitch project to create a "Methodology" portion of your project
 - Markdown is a language like HTML - you can pick up some pointers [here!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Write, in paragraph form, an overview of your domain and dataset; some background on what you know about the origin of the data; any data transformation/processing that your group did on the dataset; and an introduction to your audience on how to "read" and "use" the visualization.
-- You can check out the [Ukko wind map](https://project-ukko.net/more-info.html) or the [Unlock NYC](https://weunlock.nyc/data/soi-map/) "About this Map" sections as examples. Think of this as front-end, public-facing information - what do you want your users to know? What do you need them to know about your process? 
+- You can check out the [Ukko wind map](https://project-ukko.net/more-info.html) or the [Unlock NYC](https://weunlock.nyc/data/soi-map/) "About this Map" sections as examples. Yours does not need to be as extensive, but these examples should provide direction. Think of this as front-end, public-facing key information - what do you want your users to know? What do you need them to know about your process? 
 
 For the report: (1000-1200 words)
 - Include the following sections:
-    - Abstract: 1 paragraph summary. What are your key questions, key outputs and design choices, and key findings from creating your visualization?
+    - Abstract: 1 paragraph summary. What are your key questions, key outputs and design choices, and key findings from creating your visualization? (feel free to repeat language from your Methodology)
     - Data domain background (feel free to repeat language from your Methodology)
-    - Project process - tell the "story" of your group's work, explaining key design decisions. Why does your visualization look and behave the way it does? Who is your audience and what have you made for them? 
+    - Project process - tell the "story" of your group's work, _explaining key design decisions_. Why does your visualization look and behave the way it does? Who is your audience and what have you made with them in mind?
     - Limitations + extensions - how would your group improve or extend the project, given more time and resources? What questions remain?
     - 1 static image embedded in the report (an export or a screenshot of your final viz)
     - Save this as a PDF and include it as an attachment in your final upload.
